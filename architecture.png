@@ -1,9 +1,0 @@
-Source Data
-     ↓
-PySpark ETL
-     ↓
-Incremental Records
-     ↓
-Merge Process
-     ↓
-Target Dataset
